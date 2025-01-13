@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Run.exe.props" />
+</Project>

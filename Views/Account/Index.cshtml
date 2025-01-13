@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Run.exe.Entities.UserAccount>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Participants</h1>
+
+<table class="table">
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id).
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName) @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

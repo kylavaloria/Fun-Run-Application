@@ -1,0 +1,102 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>run.exe</title>
+    <link rel="stylesheet" href="/css/site.css?v=1.1">
+</head>
+<body>
+    @{
+        ViewData["HideHeader"] = true;
+    }
+    <section id="header">
+        <div class="container">
+            <nav>
+                <div class="logo"><h1>run.exe</h1></div>
+                <ul class="nav-links">
+                    <li><a href="#header">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#past-events">Past Events</a></li>
+                    <li><a href="#partners">Partners</a></li>
+                </ul>
+                <div class="menu-btn"></div>
+            </nav>
+
+            <div class="header-content">
+                <h1>run.exe</h1>
+                <p>Where Developers Debug Their Stride!</p>
+                <a href="/Account/Registration">
+                    <button class="primary-btn">Run</button>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section id="past-events" class="container">
+        <div class="event">
+            <img src="/img/service-1.png" alt="" />
+            <h1>Event Name</h1>
+            <p>Custom web design for smaill businesses, we help you capture new audiences and increase your sales</p>
+        </div>
+        <div class="event">
+            <img src="/img/service-2.png" alt="" />
+            <h1>Event Name</h1>
+            <p>Custom web design for smaill businesses, we help you capture new audiences and increase your sales</p>
+        </div>
+        <div class="event">
+            <img src="/img/service-3.png" alt="" />
+            <h1>Event Name</h1>
+            <p>Custom web design for smaill businesses, we help you capture new audiences and increase your sales</p>
+        </div>
+    </section>
+
+    <section id="about" class="container">
+        <div class="about-content">
+            <h1>About Us</h1>
+            <p>
+                I made it so it is super easy to update and that it flows perfectly with my tutorials. 
+                Lots of love and hundreds of hours went into working it. I hope you love it as much as I do.
+                I wish you the best of luck with your business, enjoy the adventure.
+            </p>
+        </div>
+        <div class="about-img">
+            <img src="/img/about.png" alt="" />
+        </div>
+    </section>
+
+    <section id="partners" class="container">
+        <div class="partners-list">
+            <h1>Our Partners</h1>
+            <p>
+                Have any questions? We are always open to talk about your business, new projects,
+                creative opportunities and how we can help you.
+            </p>
+        </div>
+    </section>
+
+    <footer>
+        <ul class="footerlinks">
+            <li><a href="#header">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#past-events">Past Events</a></li>
+            <li><a href="#partners">Partners</a></li>
+        </ul>
+        <h1 class="logo">run.exe</h1>
+        <p>2025 run.exe. All rights reserved.</p>
+    </footer>
+
+    <script>
+        const menuBtn = document.querySelector('.menu-btn');
+        const navLinks = document.querySelector('.nav-links');
+
+        menuBtn.addEventListener('click', function () {
+            navLinks.classList.toggle('active');
+        });
+    </script>
+</body>
+</html>

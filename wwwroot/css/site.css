@@ -1,0 +1,241 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900");
+
+:root {
+    --primary-light: #74a84a;
+    --primary-dark: #2c541d;
+    --black: #000000;
+    --white: #efefef;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    font-family: 'Jost', sans-serif;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#header {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url("/img/main.png");
+    background-size: cover;
+    background-position: center;
+    margin: 0; /* Ensure no unexpected margins */
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 8px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 0;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+    nav ul {
+        display: flex;
+        list-style: none;
+        gap: 32px;
+    }
+
+    nav .logo {
+        font-size: 20px;
+    }
+
+.header-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    margin-top: 60px;
+}
+
+    .header-content h1 {
+        font-size: 60px;
+        color: var(--primary-dark);
+    }
+
+header-content p {
+    font-size: 40px;
+    color: var(--primary-dark);
+}
+
+.primary-btn {
+    padding: 10px 24px;
+    background-color: var(--primary-light);
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+    .primary-btn:hover {
+        background-color: var(--primary-dark);
+    }
+
+.menu-btn {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    background: var(--primary-light);
+    padding: 8px 12px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+
+#past-events {
+    display: flex;
+    margin-top: 120px;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.event {
+    width: 300px;
+}
+
+.event p {
+        color: gray;
+}
+
+.event img {
+        max-width: 100%;
+    }
+
+#about {
+    display: flex;
+    margin-top: 120px;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+.about-content {
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.about-content h1 {
+    font-size: 32px;
+    color: var(--primary-dark);
+    text-transform: uppercase;
+}
+
+#about img{
+    max-width: 100%;
+}
+
+#partners {
+    background-image: url("/img/talk-to-us.png");
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+}
+
+.partners-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+
+partners-list p {
+    max-width: 500px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 0;
+    align-items: center;
+}
+
+footer ul {
+    display: flex;
+    list-style: none;
+    gap: 32px;
+}
+
+footer .logo{
+    color: var(--primary-dark);
+}
+
+@media only screen and (max-width: 520px) {
+    #header {
+        min-height: 50vh;
+    }
+
+    .header-content h1 {
+        font-size: 32px;
+    }
+
+    .header-content p {
+        font-size: 24px;
+    }
+
+    .menu-btn{
+        display: block;
+    }
+
+    nav {
+        padding: 16px;
+    }
+
+    nav ul {
+        position: absolute;
+        top: 0;
+        right: 0;
+        flex-direction: column;
+        background-color: var(--white);
+        width: 80%;
+        height: 100%;
+        align-items: end;
+        padding: 80px;
+        margin-right: -900px;
+        transition: all .3s ease;
+    }
+
+    nav ul.active {
+        margin-right: 0;
+    }
+
+    nav li {
+        border-bottom: 1px solid var(--primary-dark);
+        width: 100%;
+        padding: 8px 16px;
+        text-align: right;
+    }
+
+    footer {
+        flex-direction: column;
+        align-items: center;
+        padding: 32px 0;
+    }
+}
