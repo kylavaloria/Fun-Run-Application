@@ -3,7 +3,7 @@
 :root {
     --primary-light: #74a84a;
     --primary-dark: #2c541d;
-    --black: #000000;
+    --black: #1f1f1f;
     --white: #efefef;
 }
 
@@ -21,6 +21,7 @@ html {
 body {
     font-family: 'Jost', sans-serif;
     overflow-x: hidden;
+    background-color: var(--black);
 }
 
 a {
@@ -34,7 +35,8 @@ a {
     background-image: url("/img/main.png");
     background-size: cover;
     background-position: center;
-    margin: 0; /* Ensure no unexpected margins */
+    margin: 0;
+    color: var(--white);
 }
 
 
@@ -60,6 +62,7 @@ nav {
 
     nav .logo {
         font-size: 20px;
+        color: var(--white);
     }
 
 .header-content {
@@ -73,7 +76,7 @@ nav {
 
     .header-content h1 {
         font-size: 60px;
-        color: var(--primary-dark);
+        color: var(--primary-light);
     }
 
 header-content p {
@@ -113,6 +116,7 @@ header-content p {
     gap: 30px;
     justify-content: center;
     flex-wrap: wrap;
+    color: var(--primary-light);
 }
 
 .event {
@@ -120,7 +124,7 @@ header-content p {
 }
 
 .event p {
-        color: gray;
+    color: var(--white);
 }
 
 .event img {
@@ -139,11 +143,12 @@ header-content p {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    color: var(--white);
 }
 
 .about-content h1 {
     font-size: 32px;
-    color: var(--primary-dark);
+    color: var(--primary-light);
     text-transform: uppercase;
 }
 
@@ -152,7 +157,7 @@ header-content p {
 }
 
 #partners {
-    background-image: url("/img/talk-to-us.png");
+    background-image: url("/img/talk-to-us.jpg");
     background-size: cover;
     background-position: center;
     min-height: 500px;
@@ -164,10 +169,12 @@ header-content p {
     align-items: center;
     justify-content: center;
     height: 500px;
+    color: var(--white);
 }
 
 partners-list p {
     max-width: 500px;
+
 }
 
 footer {
@@ -175,6 +182,7 @@ footer {
     justify-content: space-between;
     padding: 16px 0;
     align-items: center;
+    color: var(--white);
 }
 
 footer ul {
@@ -183,8 +191,8 @@ footer ul {
     gap: 32px;
 }
 
-footer .logo{
-    color: var(--primary-dark);
+footer .logo {
+     color: var(--white);
 }
 
 @media only screen and (max-width: 520px) {

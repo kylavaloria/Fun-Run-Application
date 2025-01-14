@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5jarA3f3bxI4BzZyis1eWkxmgiOBGAz8lKDVaFut2/I=",
+  "Hash": "vb1YKPefU+OH1wVPB9QHUsMf3TIA5Cf2ajul5yd7VX0=",
   "Source": "Run.exe",
   "BasePath": "_content/Run.exe",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "br6818ioct",
-      "Integrity": "N7W5qOr4o0Z1iTx5NXf/tyPxW8kJhrEMmQykfmktB7s=",
+      "Fingerprint": "9dpuwc9n09",
+      "Integrity": "EwSjhZhpVX2ym510GQ1qBVmxvupRirhogWyppRADHCc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\about.jpg",
+      "SourceId": "Run.exe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\",
+      "BasePath": "_content/Run.exe",
+      "RelativePath": "img/about#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ro0s18r3v1",
+      "Integrity": "eyMH+lzHL243fUoBFL9J+qUu1Wn4GmIaGuf5Y6NUv0Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\about.jpg"
     },
     {
       "Identity": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\about.png",
@@ -262,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xv5t6or4sa",
-      "Integrity": "82aesPjxVlLPWf93F5WB91WxtDhjZM/Gl1u/FJTsr3w=",
+      "Fingerprint": "qc75famjc0",
+      "Integrity": "eqvkmKE4W/4ShjzVWkPtjDIB9FicFuB5eYKjO7lcBvM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\main.png"
@@ -311,6 +332,27 @@
       "OriginalItemSpec": "wwwroot\\img\\phone.png"
     },
     {
+      "Identity": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-1.jpg",
+      "SourceId": "Run.exe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\",
+      "BasePath": "_content/Run.exe",
+      "RelativePath": "img/service-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iam47mz8dx",
+      "Integrity": "2vjSEYjGkH054HHixfvTcGOSGglzFxAWpKe/v3LwXuA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\service-1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-1.png",
       "SourceId": "Run.exe",
       "SourceType": "Discovered",
@@ -332,6 +374,48 @@
       "OriginalItemSpec": "wwwroot\\img\\service-1.png"
     },
     {
+      "Identity": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-1jpg.jpg",
+      "SourceId": "Run.exe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\",
+      "BasePath": "_content/Run.exe",
+      "RelativePath": "img/service-1jpg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ij850uj1xb",
+      "Integrity": "fmIM/L+2skImcJLjBX0OOGj3KW+xYrREoT6UqHx1hB8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\service-1jpg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-2.jpg",
+      "SourceId": "Run.exe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\",
+      "BasePath": "_content/Run.exe",
+      "RelativePath": "img/service-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4pdu5ka78g",
+      "Integrity": "2PXMLStrN5gyKr59MQJM02Irm/onCBjPKep+97Eneic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\service-2.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-2.png",
       "SourceId": "Run.exe",
       "SourceType": "Discovered",
@@ -351,6 +435,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\service-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-3.jpg",
+      "SourceId": "Run.exe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\",
+      "BasePath": "_content/Run.exe",
+      "RelativePath": "img/service-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aa5bgg15sn",
+      "Integrity": "fnBVIdM1MYayo4bMsmzwrXsvHbjr93oaCX7Mzaa+kmE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\service-3.jpg"
     },
     {
       "Identity": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-3.png",
@@ -393,6 +498,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\services-banner.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\talk-to-us.jpg",
+      "SourceId": "Run.exe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\",
+      "BasePath": "_content/Run.exe",
+      "RelativePath": "img/talk-to-us#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xphyw6wcnp",
+      "Integrity": "NYZk8/T9lVpOqZqml9tkU+ReBQ8v45Q+g0wNTiyacdQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\talk-to-us.jpg"
     },
     {
       "Identity": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\talk-to-us.png",
@@ -712,7 +838,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.br6818ioct.css",
+      "Route": "css/site.9dpuwc9n09.css",
       "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -722,7 +848,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4135"
+          "Value": "4308"
         },
         {
           "Name": "Content-Type",
@@ -730,11 +856,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N7W5qOr4o0Z1iTx5NXf/tyPxW8kJhrEMmQykfmktB7s=\""
+          "Value": "\"EwSjhZhpVX2ym510GQ1qBVmxvupRirhogWyppRADHCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 08:43:02 GMT"
+          "Value": "Tue, 14 Jan 2025 18:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -744,7 +870,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "br6818ioct"
+          "Value": "9dpuwc9n09"
         },
         {
           "Name": "label",
@@ -752,7 +878,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-N7W5qOr4o0Z1iTx5NXf/tyPxW8kJhrEMmQykfmktB7s="
+          "Value": "sha256-EwSjhZhpVX2ym510GQ1qBVmxvupRirhogWyppRADHCc="
         }
       ]
     },
@@ -767,7 +893,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4135"
+          "Value": "4308"
         },
         {
           "Name": "Content-Type",
@@ -775,11 +901,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N7W5qOr4o0Z1iTx5NXf/tyPxW8kJhrEMmQykfmktB7s=\""
+          "Value": "\"EwSjhZhpVX2ym510GQ1qBVmxvupRirhogWyppRADHCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 08:43:02 GMT"
+          "Value": "Tue, 14 Jan 2025 18:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -789,7 +915,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N7W5qOr4o0Z1iTx5NXf/tyPxW8kJhrEMmQykfmktB7s="
+          "Value": "sha256-EwSjhZhpVX2ym510GQ1qBVmxvupRirhogWyppRADHCc="
         }
       ]
     },
@@ -876,6 +1002,43 @@
       ]
     },
     {
+      "Route": "img/about.jpg",
+      "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\about.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyMH+lzHL243fUoBFL9J+qUu1Wn4GmIaGuf5Y6NUv0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 18:29:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyMH+lzHL243fUoBFL9J+qUu1Wn4GmIaGuf5Y6NUv0Y="
+        }
+      ]
+    },
+    {
       "Route": "img/about.png",
       "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\about.png",
       "Selectors": [],
@@ -954,6 +1117,51 @@
         {
           "Name": "integrity",
           "Value": "sha256-sd10CyTQS4F1LeINtRQUX4NdvRByED+v7kkHHK1eJQE="
+        }
+      ]
+    },
+    {
+      "Route": "img/about.ro0s18r3v1.jpg",
+      "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\about.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyMH+lzHL243fUoBFL9J+qUu1Wn4GmIaGuf5Y6NUv0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 18:29:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ro0s18r3v1"
+        },
+        {
+          "Name": "label",
+          "Value": "img/about.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyMH+lzHL243fUoBFL9J+qUu1Wn4GmIaGuf5Y6NUv0Y="
         }
       ]
     },
@@ -1460,7 +1668,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1562963"
+          "Value": "1878975"
         },
         {
           "Name": "Content-Type",
@@ -1468,11 +1676,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"82aesPjxVlLPWf93F5WB91WxtDhjZM/Gl1u/FJTsr3w=\""
+          "Value": "\"eqvkmKE4W/4ShjzVWkPtjDIB9FicFuB5eYKjO7lcBvM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 07:22:39 GMT"
+          "Value": "Tue, 14 Jan 2025 17:51:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1482,12 +1690,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-82aesPjxVlLPWf93F5WB91WxtDhjZM/Gl1u/FJTsr3w="
+          "Value": "sha256-eqvkmKE4W/4ShjzVWkPtjDIB9FicFuB5eYKjO7lcBvM="
         }
       ]
     },
     {
-      "Route": "img/main.xv5t6or4sa.png",
+      "Route": "img/main.qc75famjc0.png",
       "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\main.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1497,7 +1705,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1562963"
+          "Value": "1878975"
         },
         {
           "Name": "Content-Type",
@@ -1505,11 +1713,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"82aesPjxVlLPWf93F5WB91WxtDhjZM/Gl1u/FJTsr3w=\""
+          "Value": "\"eqvkmKE4W/4ShjzVWkPtjDIB9FicFuB5eYKjO7lcBvM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 07:22:39 GMT"
+          "Value": "Tue, 14 Jan 2025 17:51:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1519,7 +1727,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xv5t6or4sa"
+          "Value": "qc75famjc0"
         },
         {
           "Name": "label",
@@ -1527,7 +1735,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-82aesPjxVlLPWf93F5WB91WxtDhjZM/Gl1u/FJTsr3w="
+          "Value": "sha256-eqvkmKE4W/4ShjzVWkPtjDIB9FicFuB5eYKjO7lcBvM="
         }
       ]
     },
@@ -1696,6 +1904,88 @@
       ]
     },
     {
+      "Route": "img/service-1.iam47mz8dx.jpg",
+      "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "309524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2vjSEYjGkH054HHixfvTcGOSGglzFxAWpKe/v3LwXuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 18:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iam47mz8dx"
+        },
+        {
+          "Name": "label",
+          "Value": "img/service-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2vjSEYjGkH054HHixfvTcGOSGglzFxAWpKe/v3LwXuA="
+        }
+      ]
+    },
+    {
+      "Route": "img/service-1.jpg",
+      "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "309524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2vjSEYjGkH054HHixfvTcGOSGglzFxAWpKe/v3LwXuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 18:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2vjSEYjGkH054HHixfvTcGOSGglzFxAWpKe/v3LwXuA="
+        }
+      ]
+    },
+    {
       "Route": "img/service-1.png",
       "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-1.png",
       "Selectors": [],
@@ -1774,6 +2064,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-DxXoukVBwWXM6gcVD+1wgyGmIonuIKptJ54jEGszt8U="
+        }
+      ]
+    },
+    {
+      "Route": "img/service-1jpg.ij850uj1xb.jpg",
+      "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-1jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "182348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fmIM/L+2skImcJLjBX0OOGj3KW+xYrREoT6UqHx1hB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 18:18:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ij850uj1xb"
+        },
+        {
+          "Name": "label",
+          "Value": "img/service-1jpg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fmIM/L+2skImcJLjBX0OOGj3KW+xYrREoT6UqHx1hB8="
+        }
+      ]
+    },
+    {
+      "Route": "img/service-1jpg.jpg",
+      "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-1jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "182348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fmIM/L+2skImcJLjBX0OOGj3KW+xYrREoT6UqHx1hB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 18:18:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fmIM/L+2skImcJLjBX0OOGj3KW+xYrREoT6UqHx1hB8="
+        }
+      ]
+    },
+    {
+      "Route": "img/service-2.4pdu5ka78g.jpg",
+      "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2PXMLStrN5gyKr59MQJM02Irm/onCBjPKep+97Eneic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 18:23:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4pdu5ka78g"
+        },
+        {
+          "Name": "label",
+          "Value": "img/service-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2PXMLStrN5gyKr59MQJM02Irm/onCBjPKep+97Eneic="
+        }
+      ]
+    },
+    {
+      "Route": "img/service-2.jpg",
+      "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2PXMLStrN5gyKr59MQJM02Irm/onCBjPKep+97Eneic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 18:23:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2PXMLStrN5gyKr59MQJM02Irm/onCBjPKep+97Eneic="
         }
       ]
     },
@@ -1860,6 +2314,51 @@
       ]
     },
     {
+      "Route": "img/service-3.aa5bgg15sn.jpg",
+      "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fnBVIdM1MYayo4bMsmzwrXsvHbjr93oaCX7Mzaa+kmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 18:21:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aa5bgg15sn"
+        },
+        {
+          "Name": "label",
+          "Value": "img/service-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fnBVIdM1MYayo4bMsmzwrXsvHbjr93oaCX7Mzaa+kmE="
+        }
+      ]
+    },
+    {
       "Route": "img/service-3.h03wz339a4.png",
       "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-3.png",
       "Selectors": [],
@@ -1901,6 +2400,43 @@
         {
           "Name": "integrity",
           "Value": "sha256-v8lAzHoAN+aEHGtmX9HvAJ0hi4cI4QmyYJG8gN3FKfc="
+        }
+      ]
+    },
+    {
+      "Route": "img/service-3.jpg",
+      "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fnBVIdM1MYayo4bMsmzwrXsvHbjr93oaCX7Mzaa+kmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 18:21:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fnBVIdM1MYayo4bMsmzwrXsvHbjr93oaCX7Mzaa+kmE="
         }
       ]
     },
@@ -2024,6 +2560,43 @@
       ]
     },
     {
+      "Route": "img/talk-to-us.jpg",
+      "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\talk-to-us.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NYZk8/T9lVpOqZqml9tkU+ReBQ8v45Q+g0wNTiyacdQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 17:52:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NYZk8/T9lVpOqZqml9tkU+ReBQ8v45Q+g0wNTiyacdQ="
+        }
+      ]
+    },
+    {
       "Route": "img/talk-to-us.png",
       "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\talk-to-us.png",
       "Selectors": [],
@@ -2102,6 +2675,51 @@
         {
           "Name": "integrity",
           "Value": "sha256-hcmbRv/hq3THJW9otW5hFGvf3OzRGZCDP8whM0P0/Tk="
+        }
+      ]
+    },
+    {
+      "Route": "img/talk-to-us.xphyw6wcnp.jpg",
+      "AssetFile": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\talk-to-us.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NYZk8/T9lVpOqZqml9tkU+ReBQ8v45Q+g0wNTiyacdQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 17:52:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xphyw6wcnp"
+        },
+        {
+          "Name": "label",
+          "Value": "img/talk-to-us.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NYZk8/T9lVpOqZqml9tkU+ReBQ8v45Q+g0wNTiyacdQ="
         }
       ]
     },

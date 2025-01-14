@@ -1,5 +1,6 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\img\about.jpg
 wwwroot\img\about.png
 wwwroot\img\about-bannerr.png
 wwwroot\img\contact-banner.png
@@ -10,10 +11,15 @@ wwwroot\img\location.png
 wwwroot\img\main.png
 wwwroot\img\menu.svg
 wwwroot\img\phone.png
+wwwroot\img\service-1.jpg
 wwwroot\img\service-1.png
+wwwroot\img\service-1jpg.jpg
+wwwroot\img\service-2.jpg
 wwwroot\img\service-2.png
+wwwroot\img\service-3.jpg
 wwwroot\img\service-3.png
 wwwroot\img\services-banner.png
+wwwroot\img\talk-to-us.jpg
 wwwroot\img\talk-to-us.png
 wwwroot\img\video.png
 wwwroot\js\site.js

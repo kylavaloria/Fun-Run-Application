@@ -40,6 +40,16 @@ namespace Run.exe.Controllers
                 account.Password = model.Password;
                 account.UserName = model.UserName;
 
+                account.Age = model.Age;
+                account.Gender = (Run.exe.Entities.Gender)model.Gender;
+                account.PhoneNumber = model.PhoneNumber;
+                account.Address = model.Address;
+                account.TShirtSize = (Run.exe.Entities.TShirtSize)model.TShirtSize;
+                account.MedicalConditions = model.MedicalConditions;
+                account.WaiverAndLiabilityAcknowledged = model.WaiverAndLiabilityAcknowledged;
+                account.PhotoVideoRelease = model.PhotoVideoRelease;
+                account.TermsAndConditions = model.TermsAndConditions;
+
                 try
                 {
                     _context.Users.Add(account);
@@ -101,8 +111,34 @@ namespace Run.exe.Controllers
         [Authorize]
         public IActionResult SecurePage()
         {
-            ViewBag.Name = HttpContext.User.Identity.Name;
-            return View();
+            // Get the logged-in user's email from the claims
+            var userEmail = HttpContext.User.Identity.Name;
+
+            // Check if the email is available (indicating that the user is logged in)
+            if (string.IsNullOrEmpty(userEmail))
+            {
+                return RedirectToAction("Login"); // Redirect to login if no email found
+            }
+
+            // Fetch user details from the database using the email
+            var user = _context.Users.FirstOrDefault(u => u.Email == userEmail);
+
+            // If no user found, redirect to login (or display an error)
+            if (user == null)
+            {
+                return RedirectToAction("Login");
+            }
+
+            // Set the ViewBag.Name to display the user's first name (or any other property)
+            ViewBag.Name = user.FirstName;
+
+            // Pass the user data to the SecurePage view
+            return View(user); // Pass the UserAccount model to the view
         }
+
+
+
+
     }
+
 }

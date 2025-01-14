@@ -1,1 +1,31 @@
-﻿<h4>Hello @ViewBag.Name</h4>
+﻿@model Run.exe.Entities.UserAccount
+
+<h1>Welcome, @ViewBag.Name!</h1>
+
+<h2>Your Registration Details</h2>
+
+<div>
+    <p><strong>Full Name:</strong> @Model.FirstName @Model.LastName</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+    <p><strong>Phone Number:</strong> @Model.PhoneNumber</p>
+    <p><strong>Age:</strong> @Model.Age</p>
+    <p><strong>Gender:</strong> @Model.Gender</p>
+    <p><strong>Race Category:</strong> @Model.RaceCategory</p>
+    <p><strong>T-Shirt Size:</strong> @Model.TShirtSize</p>
+    <p><strong>Medical Conditions:</strong> @Model.MedicalConditions</p>
+</div>
+
+<hr />
+
+<div>
+    <h3>Acknowledgments</h3>
+    <p><strong>Waiver and Liability Acknowledged:</strong> @(Model.WaiverAndLiabilityAcknowledged ? "Yes" : "No")</p>
+    <p><strong>Photo/Video Release:</strong> @(Model.PhotoVideoRelease ? "Yes" : "No")</p>
+    <p><strong>Terms and Conditions:</strong> @(Model.TermsAndConditions ? "Yes" : "No")</p>
+</div>
+
+<hr />
+
+<div>
+    <button onclick="window.print()" class="btn btn-primary">Print Ticket</button>
+</div>

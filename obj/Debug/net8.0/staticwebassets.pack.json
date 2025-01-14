@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\img\\about-bannerr.png"
     },
     {
+      "Id": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
       "Id": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\about.png",
       "PackagePath": "staticwebassets\\img\\about.png"
     },
@@ -53,12 +57,28 @@
       "PackagePath": "staticwebassets\\img\\phone.png"
     },
     {
+      "Id": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\img\\service-1.jpg"
+    },
+    {
       "Id": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-1.png",
       "PackagePath": "staticwebassets\\img\\service-1.png"
     },
     {
+      "Id": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-1jpg.jpg",
+      "PackagePath": "staticwebassets\\img\\service-1jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\img\\service-2.jpg"
+    },
+    {
       "Id": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-2.png",
       "PackagePath": "staticwebassets\\img\\service-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\img\\service-3.jpg"
     },
     {
       "Id": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\service-3.png",
@@ -67,6 +87,10 @@
     {
       "Id": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\services-banner.png",
       "PackagePath": "staticwebassets\\img\\services-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\talk-to-us.jpg",
+      "PackagePath": "staticwebassets\\img\\talk-to-us.jpg"
     },
     {
       "Id": "C:\\Users\\ACER-PC\\source\\repos\\Run.exe\\Run.exe\\wwwroot\\img\\talk-to-us.png",
